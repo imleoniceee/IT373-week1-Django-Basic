@@ -1,0 +1,8 @@
+Environment Checklist
+
+[✔] Python version
+[✔] venv active
+[✔] Django version
+[✔] runserver working
+[✔] Git remote set
+[✔] Commit and push successful
